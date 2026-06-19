@@ -6,3 +6,4 @@ Primeiro arquivo adicionado no projeto.
 
 print ("hello word")
 print ("hello word")
+.gitignore 
